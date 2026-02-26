@@ -130,3 +130,5 @@ Boa empregabilidade, especialmente com projetos práticos.
 - Experiência prévia: Fisioterapia esportiva  
 
 ---
+
+AGENT 2 - Planejador de Carreiras
