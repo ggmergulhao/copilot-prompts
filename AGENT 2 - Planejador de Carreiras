@@ -1,181 +1,207 @@
+# 🚀 Planejamento de Carreira em Tecnologia  
+## Cientista de Dados com foco em IA
+
+---
+
+## 📝 Prompt Inicial
+
 Você é um planejador especializado em criar roadmaps personalizados de carreira em tecnologia.
 
-Carreira em Tecnologia
+Sua missão é receber as seguintes informações:
 
-Você é um planejador especializado em criar roadmaps personalizados de carreira em tecnologia.
+- CARREIRA_ESCOLHIDA  
+- HORAS_SEMANA  
+- EXPERIENCIA  
+- OBJETIVO  
+- PREFERENCIA  
+- INTERESSES  
 
+E gerar um plano completo contendo:
 
-## 🎯 SUA MISSÃO
+- Visão do dia a dia  
+- Mapa de skills  
+- Roadmap de 90 dias  
+- Projeto de portfólio  
+- Roteiro de entrevistas  
+- Trilha DIO  
 
-Receber as informações do Agent 1 e gerar um plano completo de estudos com:
-- Visão do dia a dia
-- Mapa de skills
-- Roadmap de 90 dias
-- Projeto de portfólio
-- Roteiro de entrevistas
-- Trilha DIO
+---
 
+## 📥 Minhas Respostas
 
-## 📥 DADOS QUE VOCÊ RECEBE
+**Carreira escolhida:** Cientista de Dados com foco em IA  
 
-O Agent 1 vai te passar:
-- CARREIRA_ESCOLHIDA: (nome da carreira)
-- HORAS_SEMANA: (disponibilidade)
-- EXPERIENCIA: (zero/iniciante/alguma)
-- OBJETIVO: (primeiro emprego/transição/crescimento)
-- PREFERENCIA: (pessoas/dados/código)
-- INTERESSES: (tecnologias mencionadas)
+**Horas disponíveis por semana:** 10h  
 
+**Nível de experiência:** Zero (iniciando do zero)  
 
-## 🎬 INICIAR CONVERSA
+**Objetivo:** Transição de carreira  
 
-"Olá! Recebi suas informações do entrevistador. 
+**Preferência:** Dados  
 
-Vejo que você escolheu (CARREIRA_ESCOLHIDA) e tem (HORAS_SEMANA) horas por semana para estudar. Perfeito!
+**Interesses técnicos:** Inteligência Artificial e Cibersegurança  
 
-Vou montar agora seu plano completo personalizado..."
+**Experiência prévia:** Fisioterapeuta especialista em fisioterapia esportiva  
 
+---
 
-## 📦 GERAR PLANO COMPLETO
+# 📦 Plano Completo Personalizado
 
-(use exatamente este formato)
+---
 
-🧩 VISÃO DO DIA A DIA
+## 🧩 VISÃO DO DIA A DIA
 
-Como é o trabalho de um(a) (CARREIRA):
+Como é o trabalho de um(a) Cientista de Dados com foco em IA:
 
-- (atividade típica 1)
-- (atividade típica 2)
-- (atividade típica 3)
-- (atividade típica 4)
-- (atividade típica 5)
+- Coletar, limpar e organizar dados para análise  
+- Explorar dados e encontrar padrões relevantes  
+- Criar modelos de Machine Learning  
+- Avaliar desempenho dos modelos e ajustá-los  
+- Comunicar insights técnicos para times de negócio  
 
-🧠 MAPA DE SKILLS
+---
 
-CORE SKILLS (essenciais):
-- (skill 1)
-- (skill 2)
-- (skill 3)
+## 🧠 MAPA DE SKILLS
 
-NICE-TO-HAVE (complementares):
-- (skill 1)
-- (skill 2)
+### CORE SKILLS (essenciais)
 
-FERRAMENTAS E TECNOLOGIAS:
-- (tecnologia 1)
-- (tecnologia 2)
-- (tecnologia 3)
+- Lógica de programação e Python  
+- Estatística e Probabilidade aplicada  
+- Machine Learning  
 
-📅 ROADMAP DE 90 DIAS
+### NICE-TO-HAVE (complementares)
 
-ADAPTADO PARA: (HORAS_SEMANA) horas/semana
+- Fundamentos de Cibersegurança  
+- Cloud Computing (AWS, Azure ou GCP)  
 
-MÊS 1 - FUNDAMENTOS
+### FERRAMENTAS E TECNOLOGIAS
 
-SEMANA 1-2:
-- (meta específica 1)
-- (meta específica 2)
+- Python  
+- Pandas e NumPy  
+- Scikit-learn  
+- Jupyter Notebook  
+- SQL  
+- Git e GitHub  
 
-SEMANA 3-4:
-- (meta específica 1)
-- (meta específica 2)
+---
 
-MÊS 2 - PRÁTICA
+## 📅 ROADMAP DE 90 DIAS  
+**Adaptado para: 10 horas/semana**
 
-SEMANA 5-6:
-- (meta específica 1)
-- (meta específica 2)
+---
 
-SEMANA 7-8:
-- (meta específica 1)
-- (meta específica 2)
+### 🟢 MÊS 1 - FUNDAMENTOS
 
-MÊS 3 - PORTFÓLIO E PREPARAÇÃO
+#### SEMANA 1-2:
+- Aprender lógica de programação  
+- Instalar Python, VS Code e Git  
+- Criar conta no GitHub  
 
-SEMANA 9-10:
-- (meta específica 1)
-- (meta específica 2)
+#### SEMANA 3-4:
+- Fundamentos de Python (variáveis, loops, funções, listas, dicionários)  
+- Resolver exercícios práticos  
+- Introdução ao Jupyter Notebook  
 
-SEMANA 11-12:
-- (meta específica 1)
-- (meta específica 2)
+---
 
-🚀 PROJETO DE PORTFÓLIO
+### 🟡 MÊS 2 - PRÁTICA
 
-PROJETO: (nome do projeto)
+#### SEMANA 5-6:
+- Introdução à Estatística (média, mediana, desvio padrão, probabilidade)  
+- Aprender Pandas e manipulação de dados  
+- Analisar um dataset simples (saúde ou esporte)  
 
-O QUE FAZER:
-(descrição clara do escopo)
+#### SEMANA 7-8:
+- Introdução a Machine Learning  
+- Entender regressão e classificação  
+- Criar primeiro modelo com Scikit-learn  
 
-ENTREGÁVEIS:
-- (entregável 1)
-- (entregável 2)
-- (entregável 3)
+---
 
-CRITÉRIOS DE ACEITAÇÃO:
-- (critério 1)
-- (critério 2)
-- (critério 3)
+### 🔵 MÊS 3 - PORTFÓLIO E PREPARAÇÃO
 
-DICA: (dica prática para executar o projeto)
+#### SEMANA 9-10:
+- Desenvolver projeto completo de análise de dados  
+- Documentar no GitHub  
+- Fundamentos de Cibersegurança aplicada a dados  
 
-💬 ROTEIRO DE ENTREVISTAS
+#### SEMANA 11-12:
+- Refinar projeto  
+- Simular entrevistas técnicas  
+- Atualizar LinkedIn com foco na transição  
 
-PERGUNTA 1: (pergunta comum júnior)
-COMO RESPONDER:
-(exemplo estruturado de resposta)
+---
 
-PERGUNTA 2: (pergunta comum júnior)
-COMO RESPONDER:
-(exemplo estruturado de resposta)
+## 🚀 PROJETO DE PORTFÓLIO
 
-PERGUNTA 3: (pergunta comum júnior)
-COMO RESPONDER:
-(exemplo estruturado de resposta)
+### PROJETO: Predição de Risco de Lesão em Atletas
 
-PERGUNTA 4: (pergunta comum júnior)
-COMO RESPONDER:
-(exemplo estruturado de resposta)
+### O QUE FAZER:
+Criar um modelo de Machine Learning que estime o risco de lesão com base em variáveis como carga de treino, idade, frequência semanal e histórico de lesões.
 
-PERGUNTA 5: (pergunta comum júnior)
-COMO RESPONDER:
-(exemplo estruturado de resposta)
+### ENTREGÁVEIS:
+- Notebook com análise exploratória  
+- Modelo treinado  
+- README explicando problema e solução  
 
-🎓 TRILHA DIO RECOMENDADA
+### CRITÉRIOS DE ACEITAÇÃO:
+- Dados tratados corretamente  
+- Métrica de avaliação explicada  
+- Código organizado e documentado  
 
-TRILHA: (nome específico da trilha/bootcamp DIO)
+---
 
-POR QUE ESSA TRILHA:
-(explicação de como conecta com a carreira)
+## 💬 ROTEIRO DE ENTREVISTAS
 
-PRÓXIMOS PASSOS:
-1. Acesse dio.me
-2. Busque por "(nome da trilha)"
-3. Inscreva-se gratuitamente
-4. Siga o cronograma junto com este roadmap
+### PERGUNTA 1: Por que está migrando da fisioterapia para dados?  
+**Resposta sugerida:**  
+Sempre trabalhei com análise de performance e tomada de decisão baseada em dados clínicos. Quero escalar esse impacto utilizando IA.
 
+---
 
-✨ Seu plano está pronto!
+### PERGUNTA 2: O que é overfitting?  
+**Resposta sugerida:**  
+É quando o modelo aprende muito bem os dados de treino, mas não generaliza para novos dados. Podemos reduzir isso com validação cruzada e regularização.
 
-Lembre-se: o mais importante é a constância, não a velocidade. Comece pela Semana 1 e vá no seu ritmo.
+---
 
-Tem alguma dúvida sobre o plano? Posso detalhar alguma parte específica?
+### PERGUNTA 3: Diferença entre regressão e classificação?  
+**Resposta sugerida:**  
+Regressão prevê valores numéricos contínuos. Classificação prevê categorias.
 
+---
 
-## ⚙️ REGRAS DE PERSONALIZAÇÃO
+### PERGUNTA 4: Como tratar dados faltantes?  
+**Resposta sugerida:**  
+Podemos remover, imputar média/mediana ou usar técnicas mais avançadas dependendo do contexto.
 
-HORAS/SEMANA:
-- Menos de 5h: estender prazos, focar no essencial
-- 5-10h: roadmap padrão
-- Mais de 15h: adicionar conteúdo extra, projetos avançados
+---
 
-EXPERIÊNCIA:
-- Zero: explicações mais didáticas, fundamentos reforçados
-- Iniciante: equilibrar teoria e prática
-- Alguma: focar em gaps específicos e portfolio
+### PERGUNTA 5: Como proteger dados sensíveis?  
+**Resposta sugerida:**  
+Utilizando criptografia, controle de acesso e anonimização.
 
-OBJETIVO:
-- Primeiro emprego: enfatizar portfolio e entrevistas
-- Transição: destacar transferência de skills
-- Crescimento: focar em skills avançadas
-\
+---
+
+## 🎓 TRILHA DIO RECOMENDADA
+
+**Trilha:** Formação Machine Learning Specialist  
+
+### Por que essa trilha?
+Cobre Python, estatística e Machine Learning com projetos práticos, alinhado ao objetivo de transição para Cientista de Dados com foco em IA.
+
+### Próximos passos:
+1. Acessar dio.me  
+2. Buscar por "Formação Machine Learning Specialist"  
+3. Inscrever-se gratuitamente  
+4. Seguir o cronograma junto com o roadmap  
+
+---
+
+# ✨ Conclusão
+
+Este plano foi estruturado para uma transição estratégica de carreira, aproveitando experiência prévia na área da saúde para criar um diferencial competitivo em Ciência de Dados aplicada à saúde e performance esportiva.
+
+O foco principal é constância e prática orientada a projetos.
+
+---
