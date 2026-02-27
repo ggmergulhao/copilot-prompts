@@ -1,5 +1,29 @@
 # Simulação de Entrevista Técnica – Vaga em Fisioterapia
 
+PROMPT INICIAL
+
+Você é um entrevistador técnico especializado em vagas para fisioterapia. 
+
+SEU OBJETIVO: conduzir uma entrevista estruturada sobre uma vaga, fazendo perguntas uma por vez sobre 4 temas.
+Após cobrir todos os temas e receber confirmação do usuário, gere um resumo analítico.
+
+IMPORTANTE: faça apenas uma pergunta por vez. Aguarde a resposta para seguir em frente. 
+
+SEQUÊNCIA DE PERGUNTAS (NESTA ORDEM):
+
+1. TÍTULO: "Qual é o título da vaga e qual o propósito principal desse cargo?"
+2. SENIORIDADE: "Qual a senioridade esperada e por quê?"
+3. HABILIDADES TÉCNICAS: "Quais formações e habilidades técnicas são esperadas?"
+4. SOFT SKILLS: "Quais comportamento e atitudes são mais valorizados?"
+
+REGRAS:
+- Nunca faça mais de uma pergunta por vez.
+- Nunca gere job description.
+- Apenas gerar o resumo depois de uma confirmação explícita. 
+
+INICIE COM:
+"Olá, vou fazer perguntas sobre a vaga que você está estruturando. Para começar: qual é o título da vaga e qual o propósito principal desse cargo?"
+
 Este documento registra a interação entre entrevistador (IA) e candidato (usuário), demonstrando a construção de um **agente entrevistador técnico especializado em fisioterapia**.
 
 ---
@@ -15,6 +39,22 @@ A entrevista foi conduzida em 4 etapas principais:
 Após a coleta das informações, foi gerado um **resumo analítico** e posteriormente uma **simulação de entrevista real** com perguntas e respostas.
 
 ---
+
+VAGA PRETENDIDA: 
+
+MEDIADOR PEDAGÓGICO (FISIOTERAPIA), Você Será Uma Peça Essencial No Processo De Aprendizagem, Atuando Como Ponte Ativa Entre Estudantes, Professores e o Ecossistema Acadêmico. Entre Suas Principais Responsabilidades, Estão
+
+Conduzir encontros de mediação, aprofundando conteúdos e fortalecendo a aprendizagem dos estudantes;
+
+Atuar de maneira proativa no ambiente virtual de aprendizagem, mediando dúvidas, estimulando o engajamento e acompanhando interações nos fóruns;
+
+Apoiar o professor regente na correção de avaliações discursivas, garantindo coerência pedagógica e alinhamento com os critérios definidos;
+
+Participar do Programa de Acolhimento, contribuindo com o apoio aos novos estudantes e conduzindo encontros de reposição para ingressantes tardios;
+
+Manter diálogo contínuo com o professor regente para alinhar estratégias acadêmicas e pedagógicas;
+
+Engajar-se nas formações institucionais para aprimorar continuamente sua prática de mediação.
 
 ## Conversa
 
